@@ -1,5 +1,5 @@
-# Lyxos
-Lyxos Anticheat is a FiveM Anticheat, from server owner to server owner
+# SpamBudeNET
+SpamBudeNET is a Minecraft Network
 
 ### Information:
 - Created on 06/29/2022
