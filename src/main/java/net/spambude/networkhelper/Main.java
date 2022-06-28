@@ -39,7 +39,7 @@ public final class Main extends Plugin {
         instance = this;
 
         // Default Settings
-        setPrefix("§7•§8● §cSpamBude&4NET §8●§7• §8┃ §7");
+        setPrefix("§7•§8● §cSpamBude§4NET §8●§7• §8┃ §7");
         setNoPerms(getPrefix() + "§cYou don't §7have §cpermission §7for §cthat!");
 
         // Listener
