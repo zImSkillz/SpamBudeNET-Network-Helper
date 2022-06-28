@@ -1,0 +1,4 @@
+name: Networkhelper
+version: '1.0-SNAPSHOT'
+main: net.spambude.networkhelper.Main
+description: Network helper for SpamBudeNET

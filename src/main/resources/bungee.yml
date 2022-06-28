@@ -1,0 +1,4 @@
+name: Networkhelper
+version: '${project.version}'
+main: net.spambude.networkhelper.Main
+description: Network helper for SpamBudeNET

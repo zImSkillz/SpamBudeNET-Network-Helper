@@ -1,0 +1,15 @@
+net\spambude\networkhelper\objects\LabyModInfo.class
+net\spambude\networkhelper\commands\ClientCheckCommand.class
+net\spambude\networkhelper\commands\ClientCheckCommand$2.class
+net\spambude\networkhelper\commands\PingCommand.class
+net\spambude\networkhelper\utils\UUIDTypeAdapter.class
+net\spambude\networkhelper\utils\UUIDFetcher.class
+net\spambude\networkhelper\utils\VersionDetector.class
+net\spambude\networkhelper\commands\ClientCheckCommand$1.class
+net\spambude\networkhelper\listener\LoginListener.class
+net\spambude\networkhelper\commands\LabyModCommand.class
+net\spambude\networkhelper\commands\FakePluginsCommand.class
+net\spambude\networkhelper\Main.class
+net\spambude\networkhelper\commands\BroadcastCommand.class
+net\spambude\networkhelper\utils\StringGenerator.class
+net\spambude\networkhelper\manager\PlayerManager.class
